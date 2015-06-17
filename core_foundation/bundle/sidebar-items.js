@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["CFBundleGetBundleWithIdentifier",""],["CFBundleGetFunctionPointerForName",""]],"struct":[["CFBundle","A Bundle type."]],"type":[["CFBundleRef",""]]});
